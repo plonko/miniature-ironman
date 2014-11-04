@@ -1,4 +1,4 @@
-var http = require('http');
+/*var http = require('http');
 var mongojs = require('mongojs');
 
 var db = mongojs('books');
@@ -24,4 +24,4 @@ exports.doit = function() {
         console.log(docs)
     });
 
-}
+}*/
